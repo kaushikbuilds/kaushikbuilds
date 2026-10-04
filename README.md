@@ -16,7 +16,7 @@
 
 <!-- ===== TERMINAL ===== -->
 ```bash
-kaushik@builds:~$ cat about.js
+kaushik8653911@gmail.com:~$ cat about.js
 ```
 
 ```js
@@ -28,7 +28,7 @@ const kaushik = {
   learning: ["Next.js", "TypeScript", "Framer Motion"],
   funFact: "I judge a website by how smooth its hover feels",
   lookingFor: "projects where design meets motion",
-  reachMe: "kaushikbuilds@email.com", // <- apna email daalo
+  reachMe: "kaushik8653911@gmail.com", 
 };
 ```
 
