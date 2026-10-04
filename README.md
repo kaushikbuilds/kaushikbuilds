@@ -66,7 +66,7 @@ TypeScript   ████░░░░░░░░░░░░  25%  ← learning
 | **AI Chatbot for Portfolio** | JavaScript · API | 💡 Planned |
 | **Next big thing** | ??? | 🔮 Loading... |
 
-> 🔗 Live portfolio: **[add-your-link-here](https://YOUR-PORTFOLIO)**
+> 🔗 Live portfolio: **[add-your-link-here]([https://YOUR-PORTFOLIO](https://portfolio-h6jz.vercel.app/))**
 
 <!-- ===== STATS ===== -->
 ## 📈 Signal
